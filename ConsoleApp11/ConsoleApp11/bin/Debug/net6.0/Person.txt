@@ -1,0 +1,28 @@
+ConsoleApp11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+___Constructors___
+Void .ctor(System.String)
+Void .ctor(Int32)
+Void .ctor()
+
+___Methods___
+System.String get_Name()
+Void Walk()
+Void Eat(System.String)
+Void Sleep()
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+
+___Fields___
+Int32 age
+
+___Properties___
+System.String Name
+
+___Interfaces___
+
+___Method Parameters___
+Void Eat(System.String)
+Boolean Equals(System.Object)

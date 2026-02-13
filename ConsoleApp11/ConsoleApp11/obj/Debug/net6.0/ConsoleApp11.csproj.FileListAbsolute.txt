@@ -1,0 +1,42 @@
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+D:\3 семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+D:\3семестр\OOP\lab 11\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll
+E:\study\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+E:\study\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+E:\study\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+E:\study\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+E:\study\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+E:\study\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll
