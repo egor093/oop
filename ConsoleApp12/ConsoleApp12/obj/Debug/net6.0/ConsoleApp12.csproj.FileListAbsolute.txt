@@ -1,0 +1,42 @@
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+D:\3 семестр\OOP\lab 12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+D:\3семестр\OOP\lab12\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
+E:\study\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+E:\study\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+E:\study\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+E:\study\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+E:\study\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+E:\study\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll

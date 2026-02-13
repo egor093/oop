@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Task3\**" />
+    <Compile Remove="Task4\**" />
+    <EmbeddedResource Remove="Task3\**" />
+    <EmbeddedResource Remove="Task4\**" />
+    <None Remove="Task3\**" />
+    <None Remove="Task4\**" />
+  </ItemGroup>
+
+</Project>

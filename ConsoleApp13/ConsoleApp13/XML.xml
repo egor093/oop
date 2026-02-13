@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Circle" Type="Circle">
+    <Radius>3</Radius>
+  </Figure>
+  <Figure xsi:type="Rectangle" Type="Rectangle">
+    <Width>5</Width>
+    <Height>8</Height>
+  </Figure>
+  <Figure xsi:type="Circle" Type="Circle">
+    <Radius>7</Radius>
+  </Figure>
+</ArrayOfFigure>

@@ -1,0 +1,42 @@
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\refint\ConsoleApp13.dll
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
+D:\3семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\refint\ConsoleApp13.dll
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
+D:\3 семестр\OOP\lab 13\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll
+E:\study\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+E:\study\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+E:\study\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+E:\study\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+E:\study\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\refint\ConsoleApp13.dll
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
+E:\study\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll
